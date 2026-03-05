@@ -136,7 +136,7 @@ export default function App() {
             className="relative h-[500px] md:h-[700px] rounded-[200px] overflow-hidden border border-warm-ink/10"
           >
             <img 
-              src="https://picsum.photos/seed/jhanvi/800/1200" 
+              src="https://i.ibb.co/MDQ5KjJY/main-image.jpg" 
               alt="Jhanvi Shah" 
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
               referrerPolicy="no-referrer"
